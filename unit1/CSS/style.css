@@ -1,2 +1,9 @@
-body {background-color: white;}
-h1, p {color: gray;}
+title {
+	font: white;
+	text-align: center;
+}
+body {
+	background-color: black;
+	font-size: 22px;
+	font: white;
+}
