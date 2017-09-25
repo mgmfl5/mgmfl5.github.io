@@ -1,3 +1,19 @@
+
+body {
+	font-family: 'Nunito', sans-serif;
+}
+
+nav {
+	font-size: 1.8em;
+	float: right;
+}
+
+nav a {
+	text-decoration: none;
+	margin: 1.8em;
+	display: inline-block;
+}
+
 #two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
