@@ -1,17 +1,25 @@
-#two_column {
-    background-color: #FFB7CF;
-    border: 1px black solid;
-    padding: 20px;
+body {
+	font-family: 'Nunito', sans-serif;
 }
-
+nav {
+	font-size: 1.8em;
+	float: left;
+}
+nav a {
+	text-decoration: none;
+	margin: 1.8em;
+	display: inline-block;
+}
+#slogan {
+	font-size: 2em;
+}
 #left {
-    background-color: #E582A2;
-    border: 1px black solid;
-    padding: 20px;
+	padding: 20px;
+	float: left;
+	width: 30%;
 }
-
 #right {
-    background-color: #E55B88;
-    border: 1px black solid;
-    padding: 20px;
+	padding: 20px;
+	float: right;
+	width: 60%;
 }
