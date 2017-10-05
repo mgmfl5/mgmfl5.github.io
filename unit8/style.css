@@ -45,3 +45,10 @@ section {
 	margin: auto;
 	background: #222;
 }
+@media only screen and (max-width:800px) {
+	nav {
+		float: none;
+	}
+	img {: 320px;
+	}
+}
