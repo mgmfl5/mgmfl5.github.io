@@ -9,6 +9,10 @@ nav a {
 }
 h1 {
 	font-size: 3em;
+	font-family: 'Amatic SC', cursive;
+}
+h2 {
+	font-family: 'Amatic SC', cursive;
 }
 #navbar {
 	text-align: center;
